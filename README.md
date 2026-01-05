@@ -3,9 +3,9 @@
 Software Engineer • C++ Systems • Performance-Driven Builder
 </h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="top" style="border:none;">
 
 ### 👨‍💻 About Me
 
@@ -18,14 +18,16 @@ I believe in depth over hype, fundamentals over trends, and shipping over talkin
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" style="border:none;">
 <img
 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
 width="300"
+alt="Coding animation"
 />
 </td>
 </tr>
 </table>
+
 
 
 ---
