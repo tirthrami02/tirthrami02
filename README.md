@@ -73,7 +73,6 @@ If your project values performance, correctness, and long-term maintainability, 
   <a
   href="https://drive.google.com/file/d/181iDvj3Tpr0iB71YL5iTIjLpniBU0-8z/view"
   target="_blank"
-  rel="noopener noreferrer"
   >
   View Resume
   </a>
@@ -83,22 +82,22 @@ If your project values performance, correctness, and long-term maintainability, 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/tirth-rami" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/tirth-rami" target="_blank" >
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/tirth_rami" target="_blank" rel="noopener noreferrer">
+<a href="https://www.leetcode.com/tirth_rami" target="_blank" >
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
 height="30" width="40" />
 </a>
 
-<a href="https://codeforces.com/profile/tirth_rami" target="_blank" rel="noopener noreferrer">
+<a href="https://codeforces.com/profile/tirth_rami" target="_blank" >
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
 height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/ramitirth77" target="_blank" rel="noopener noreferrer">
+<a href="https://www.hackerrank.com/ramitirth77" target="_blank" >
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
 height="30" width="40" />
 </a>
