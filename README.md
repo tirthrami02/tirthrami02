@@ -3,9 +3,14 @@
 Software Engineer • C++ Systems • Performance-Driven Builder
 </h3>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top" style="border:none;">
+<br/>
+
+<img
+align="right"
+width="300"
+src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
+alt="Coding animation"
+/>
 
 ### 👨‍💻 About Me
 
@@ -16,17 +21,8 @@ My long-term interests include **systems programming, high-performance computing
 
 I believe in depth over hype, fundamentals over trends, and shipping over talking.
 
-</td>
+<br clear="right"/>
 
-<td width="35%" align="center" style="border:none;">
-<img
-src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
-width="300"
-alt="Coding animation"
-/>
-</td>
-</tr>
-</table>
 
 
 
