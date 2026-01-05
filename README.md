@@ -70,7 +70,7 @@ If your project values performance, correctness, and long-term maintainability, 
 
 - Email: **ramitirth77@gmail.com**
 - Resume:  
-  <a href="https://drive.google.com/file/d/181iDvj3Tpr0iB71YL5iTIjLpniBU0-8z/view" target="_blank"> View Resume </a>
+  <a href="https://drive.google.com/file/d/16QDng7XPCV606rLNEb3QJ7V6GOQrieIk/view" target="_blank"> View Resume </a>
 
 ---
 
