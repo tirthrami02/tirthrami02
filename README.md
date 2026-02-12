@@ -21,22 +21,6 @@ My long-term interests include **systems programming, high-performance computing
 
 I believe in depth over hype, fundamentals over trends, and shipping over talking.
 
-<br clear="right"/>
-
-
-
-
----
-
-### 👨‍💻 About Me
-
-I am a Software Engineer with a strong focus on **C++ systems, performance optimization, and low-level problem solving**.
-
-I enjoy working close to the core of software where **memory, latency, and correctness matter**.  
-My long-term interests include **systems programming, high-performance computing, and hardware-adjacent software**.
-
-I believe in depth over hype, fundamentals over trends, and shipping over talking.
-
 ---
 
 ### 🔭 Current Focus
